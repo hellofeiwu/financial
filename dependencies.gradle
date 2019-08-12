@@ -1,0 +1,16 @@
+ext {
+    version = [
+            springBootVersion: '1.5.4.RELEASE'
+    ]
+    libs = [
+            common: [
+//                    "org.springframework.boot"
+            ],
+            mysql: [
+                    
+            ],
+            test: [
+//                    ''
+            ]
+    ]
+}
